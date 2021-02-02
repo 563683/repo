@@ -1,33 +1,28 @@
-Package: com.decimation.roboto2014ios9final
-Version: 1.2
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: Decimation <decimation001@gmail.com>
-Depends: com.bytafont.bytafont3
-Filename: debs//fonts/com.decimation.roboto2014ios9final.deb
-Size: 20613162
-MD5sum: 7ecb7e74825be1c5c4ebf597a90f3fd7
-SHA1: a733c48d54fb507a51e68322991b8101129977ac
-SHA256: 580a83be4058f6965c5131e8fbc17d4e9adf338b0bfa8957419ddcf264d3ba66
-Section: Fonts
-Description: Google's Roboto 2014 for iOS 9.
-Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://sn3pi.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
-Name: Roboto 2014 iOS 9 Final
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-
-
-Package: com.sn3pi.11procam
-Version: 0.0.1
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Maintainer: Sn3pi <adelrepo@gmail.com>
-Depends: mobilesubstrate
-Filename: debs/com.sn3pi.11procam_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3720 
-MD5sum: 83ffd8b5c705621c242b1e50701efd94
-SHA1: 24f6b245638ed87ea0156e1d7ffaed3a9ea0fdd3
-SHA256: 413ec66adee0a902efd0531a00b80fadb75574a0d6825b2e6a8e5ee59faea5f1
-Section: Tweak
-Description: iPhone 11Pro features camera for old ios!
-Author: Sn3pi <adelrepo@gmail.com>
-Depiction: http://sn3pi.github.io/depictions/index.html?p=com.sn3pi.11procam
-Name: 11ProCam
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+

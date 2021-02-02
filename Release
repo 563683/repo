@@ -1,8 +1,8 @@
-Origin: Sn3pi Repo
-Label: Sn3pi Repo
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
-Codename: Decimation
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Sn3pi Repo
+Description: Reposi3 - a cydia repo template
