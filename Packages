@@ -21,7 +21,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Sn3pi <adelrepo@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//fonts/com.decimation.roboto2014ios9final.deb
+Filename: debs/com.sn3pi.11procam_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3720 
 MD5sum: 83ffd8b5c705621c242b1e50701efd94
 SHA1: 24f6b245638ed87ea0156e1d7ffaed3a9ea0fdd3
