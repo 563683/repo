@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: sn3pi <adelrepo@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.sn3pi.11procam_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.sn3pi.11procam_0.0.1_iphoneos-arm.deb
 Size: 3720 
 MD5sum: 83ffd8b5c705621c242b1e50701efd94
 Description: This is a sample new package. Firmware should be greater than 7.0
