@@ -1,4 +1,3 @@
-
 Package: com.decimation.roboto2014ios9final
 Version: 1.2
 Architecture: iphoneos-arm
@@ -12,5 +11,23 @@ SHA256: 580a83be4058f6965c5131e8fbc17d4e9adf338b0bfa8957419ddcf264d3ba66
 Section: Fonts
 Description: Google's Roboto 2014 for iOS 9.
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Depiction: http://sn3pi.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
 Name: Roboto 2014 iOS 9 Final
+
+
+
+Package: com.sn3pi.11procam
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Sn3pi <adelrepo@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//fonts/com.decimation.roboto2014ios9final.deb
+Size: 3720 
+MD5sum: 83ffd8b5c705621c242b1e50701efd94
+SHA1: 24f6b245638ed87ea0156e1d7ffaed3a9ea0fdd3
+SHA256: 413ec66adee0a902efd0531a00b80fadb75574a0d6825b2e6a8e5ee59faea5f1
+Section: Tweak
+Description: iPhone 11Pro features camera for old ios!
+Author: Sn3pi <adelrepo@gmail.com>
+Depiction: http://sn3pi.github.io/depictions/index.html?p=com.sn3pi.11procam
+Name: 11ProCam
